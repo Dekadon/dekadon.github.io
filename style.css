@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+  color: yellow;
+  font-size: 100px;
+  text-align: center;
+}
+
+p {
+  white-space:nowrap:
+  font-family:;
+  background-color: cyan;
+  color: red;
+  font-size: 75px;
+  text-align: left;
+}
+li {
+  color: green;
+  font-size: 30px;
+  text-align: left;
+}
